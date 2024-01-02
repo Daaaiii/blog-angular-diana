@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "user": "Daaaiii",
+      "title": "dasdsd",
+      "postContent": "adsdasd",
+      "id": 7
+    },
+    {
+      "user": "DAI",
+      "title": "Testando os posts",
+      "postContent": "Helloooooo",
+      "id": 8
+    }
+  ]
+}
